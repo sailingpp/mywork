@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\MyWork\MyWork\bin\Debug\MyWork.dll
+C:\Users\Administrator\Desktop\MyWork\MyWork\bin\Debug\MyWork.pdb
+C:\Users\Administrator\Desktop\MyWork\MyWork\bin\Debug\AcCui.dll
+C:\Users\Administrator\Desktop\MyWork\MyWork\obj\Debug\MyWork.dll
+C:\Users\Administrator\Desktop\MyWork\MyWork\obj\Debug\MyWork.pdb
+C:\Users\Administrator\Desktop\MyWork\MyWork\obj\Debug\MyCommonTools.csprojResolveAssemblyReference.cache

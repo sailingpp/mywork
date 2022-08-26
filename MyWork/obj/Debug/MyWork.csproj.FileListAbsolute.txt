@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\MyWork\MyWork\bin\Debug\MyWork.dll
+c:\users\administrator\documents\visual studio 2012\Projects\MyWork\MyWork\bin\Debug\MyWork.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\MyWork\MyWork\obj\Debug\MyWork.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\MyWork\MyWork\obj\Debug\MyWork.dll
+c:\users\administrator\documents\visual studio 2012\Projects\MyWork\MyWork\obj\Debug\MyWork.pdb
