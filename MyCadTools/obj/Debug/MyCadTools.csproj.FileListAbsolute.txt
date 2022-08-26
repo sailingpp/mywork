@@ -1,0 +1,19 @@
+c:\Users\administrator\documents\visual studio 2012\Projects\MyWork\MyCadTools\obj\Debug\MyCadTools.csprojResolveAssemblyReference.cache
+c:\Users\administrator\documents\visual studio 2012\Projects\MyWork\MyCadTools\bin\Debug\MyCadTools.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\MyWork\MyCadTools\bin\Debug\MyCadTools.pdb
+c:\Users\administrator\documents\visual studio 2012\Projects\MyWork\MyCadTools\obj\Debug\MyCadTools.dll
+c:\Users\administrator\documents\visual studio 2012\Projects\MyWork\MyCadTools\obj\Debug\MyCadTools.pdb
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\bin\Debug\MyCadTools.dll
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\bin\Debug\MyCadTools.pdb
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\obj\Debug\MyCadTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\obj\Debug\MyCadTools.dll
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\obj\Debug\MyCadTools.pdb
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\obj\Debug\MyCadTools.dll
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\obj\Debug\MyCadTools.pdb
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\bin\Debug\MyCadTools.dll
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\bin\Debug\MyCadTools.pdb
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\obj\Debug\MyCadTools.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\obj\Debug\MyCadTools.StructureBox.resources
+C:\Users\Administrator\Desktop\MyWork\MyCadTools\obj\Debug\MyCadTools.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\obj\Debug\MyCadTools.StructureBox.resources
+C:\Users\Administrator\Desktop\MyWork\MyWork\MyCadTools\obj\Debug\MyCadTools.csproj.GenerateResource.Cache
